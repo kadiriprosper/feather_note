@@ -1,0 +1,14 @@
+The app idea is to be a simple version of keep notes.
+We'd see how to implement things like:
+1. biometrics
+2. theme
+3. proper page routing
+4. local storage of notes
+5. animations
+
+Settings would contain things like:
+1. changing of themes
+2. activate biometrics
+3. clear trash
+4. clear archives
+5. 
